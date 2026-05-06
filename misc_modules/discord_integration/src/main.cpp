@@ -10,13 +10,13 @@
 
 SDRPP_MOD_INFO{
     /* Name:            */ "discord_integration",
-    /* Description:     */ "Discord Rich Presence module for SDR++",
-    /* Author:          */ "Cam K.;Ryzerth",
+    /* Description:     */ "Discord Rich Presence module for OWO++",
+    /* Author:          */ "nicopancakes",
     /* Version:         */ 0, 0, 2,
     /* Max instances    */ 1
 };
 
-#define DISCORD_APP_ID "834590435708108860"
+#define DISCORD_APP_ID "1501677451099766804"
 
 class DiscordIntegrationModule : public ModuleManager::Instance {
 public:
