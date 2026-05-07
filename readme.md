@@ -5,6 +5,8 @@
 
 OWO++ is a cross-platform, open-source SDR software focused on being lightweight, simple, and easy to use.
 
+⚠ OWOPlusPlus is Still in Development!, Get OWOPlusPlus Lite **[Here.](https://github.com/nicopancakes/OWO-Lite)**
+
 ## SDR++ Discord
 (Not affiliated with OWO++)
 
